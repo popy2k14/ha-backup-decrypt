@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ha-backup-decrypt/1.0.0": {
+        "runtime": {
+          "ha-backup-decrypt.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ha-backup-decrypt/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
